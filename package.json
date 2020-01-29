@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajith-ab/react-native-file-share-intent.git"
+    "url": "git+https://github.com/GfxKai/react-native-file-share-intent.git"
   },
   "keywords": [
     "ios",
@@ -17,10 +17,10 @@
     "share",
     "extension"
   ],
-  "author": "Ajith A B",
+  "author": "GfxKai",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ajith-ab/react-native-file-share-intent/issues"
+    "url": "https://github.com/GfxKai/react-native-file-share-intent/issues"
   },
-  "homepage": "https://github.com/ajith-ab/react-native-file-share-intent#readme"
+  "homepage": "https://github.com/GfxKai/react-native-file-share-intent#readme"
 }
