@@ -15,11 +15,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "7.0"''
   s.source       = { :git => "https://github.com/author/RNFileShareIntent.git", :tag => "master" }
 
-  s.source_files  = "ios/**/*.{h,m}"
-
-  s.pod_target_xcconfig = {
-    'HEADER_SEARCH_PATHS' => '"${PODS_ROOT}/RNFileShareIntent"'
-  }
+  s.source_files  = "src/*.{h,m}"
 
   s.requires_arc = true
 
